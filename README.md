@@ -5,7 +5,7 @@
 Certain words appear much more frequently in texts now than they did before, for example the word "delve". [Here's a good description why this might be the case](https://hesamsheikh.substack.com/p/why-does-chatgpt-use-delve-so-much). 
 
 ## Use of AI in Scientific Research
-Scientists also use ChatGPT to reformat text in publications. Recently, a survey published by Wiley revealed that 44% of researchers reported using Large Language Models (LLMs) such as ChatGPT in the research process. [Here's the report](https://www.wiley.com/content/dam/wiley-dotcom/entors such as the people who like to take surveys or social expectations ("Scientists should not use ChatGPT").
+Scientists also use ChatGPT to reformat text in publications. Recently, a survey published by Wiley revealed that 44% of researchers reported using Large Language Models (LLMs) such as ChatGPT in the research process. [Here's the report](https://www.wiley.com/content/dam/wiley-dotcom/en/b2c/content-fragments/explanaitions-ai-report/pdfs/Wiley_ExplanAItions_AI_Study_February_2025vers1.pdf).
 
 ## Objective Evidence from Scientific Literature
 I wondered whether the scientific literature offered more objective evidence. Specifically, I investigated whether the use of certain words increased or decreased after 2022 in scientific literature. PubMed, a large search engine for biomedical literature, was queried for words commonly used by ChatGPT or typically present in scientific work (e.g., "in this study").
