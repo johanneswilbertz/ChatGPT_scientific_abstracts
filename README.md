@@ -28,30 +28,29 @@ I wondered whether the scientific literature offers more objective evidence for 
 - **Simplicity:** A straightforward method to model the relationship between year and publication count.
 
 ## Findings
-This approach helps to visually and quantitatively assess whether the actual counts for 2023 and 2024 significantly deviate from the expected trend.
+This approach helps to visually and quantitatively assess whether the actual counts for 2023 and 2024 significantly deviate from the expected trend based on the previous years.
 
 ### Increased Frequency
 Some words are clearly more frequently found in biomedical literature after 2022, such as "delve into" and "treasure trove". This could be due to overall publication numbers increasing for LLM-unrelated reasons.
-
-### Decreased Frequency
-Unexpectedly, there was a drop in abstracts using widespread words like "our results" or "we show" after 2022. This might indicate the use of LLMs by researchers, as LLM-generated text often uses passive rather than active language ("this shows" versus "we show").
-
-### Consistent Frequency
-When searching PubMed for "in this study," the results for 2023-2024 were exactly on the trendline based on the 2014-2022 data. So probably, there is no reason to believe that publication numbers rose in general after 2022, but that increased use of certain words can be tied to increase usage of LLMs by researchers.
-
-## Conclusion
-Linear regression captures past trends well, at least for the last couple of years. The 44% of researchers using AI for their publications might be an underestimation. It is also interesting to see that not only some words increase, but that others words in an active voice context also can decrease when using LLMs.
 
 ![image](https://github.com/user-attachments/assets/2f747388-b958-45c6-9ea3-22094cca266f)
 ![image](https://github.com/user-attachments/assets/eaf2fc23-706f-41f8-a373-a4bbaf01d864)
 ![image](https://github.com/user-attachments/assets/e946a99c-9d71-4ef8-b481-4aefeb0caaab)
 ![image](https://github.com/user-attachments/assets/3bb5e964-77a6-4f28-9744-78ee3fd4679b)
+
+### Decreased Frequency
+Unexpectedly, there was a drop in abstracts using widespread words like "our results" or "we show" after 2022. This might indicate the use of LLMs by researchers, as LLM-generated text often uses passive rather than active language ("this shows" versus "we show").
+
 ![image](https://github.com/user-attachments/assets/a38d6fe5-9b6c-4f77-8de2-67846b90b0e9)
 ![image](https://github.com/user-attachments/assets/e9393577-6849-4209-b720-468fbcfc8dcc)
+
+### Consistent Frequency
+When searching PubMed for "in this study," the results for 2023-2024 were exactly on the trendline based on the 2014-2022 data. So probably, there is no reason to believe that publication numbers rose in general after 2022, but that increased use of certain words can be tied to increase usage of LLMs by researchers.
+
 ![image](https://github.com/user-attachments/assets/45e0f4b0-245b-4247-aa28-b07aabfca634)
 
-
-
+## Conclusion
+Linear regression captures past trends well, at least for the last couple of years. The 44% of researchers using AI for their publications might be an underestimation. It is also interesting to see that not only some words increase, but that others words in an active voice context also can decrease when using LLMs.
 
 
 
