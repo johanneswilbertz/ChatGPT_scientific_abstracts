@@ -41,3 +41,18 @@ When searching PubMed for "in this study," the results for 2023-2024 were exactl
 
 ## Conclusion
 Linear regression captures past trends well, at least for the last couple of years. The 44% of researchers using AI for their publications might be an underestimation. It is also interesting to see that not only some words increase, but that others words in an active voice context also can decrease when using LLMs.
+
+![image](https://github.com/user-attachments/assets/2f747388-b958-45c6-9ea3-22094cca266f)
+![image](https://github.com/user-attachments/assets/eaf2fc23-706f-41f8-a373-a4bbaf01d864)
+![image](https://github.com/user-attachments/assets/e946a99c-9d71-4ef8-b481-4aefeb0caaab)
+![image](https://github.com/user-attachments/assets/3bb5e964-77a6-4f28-9744-78ee3fd4679b)
+![image](https://github.com/user-attachments/assets/a38d6fe5-9b6c-4f77-8de2-67846b90b0e9)
+![image](https://github.com/user-attachments/assets/e9393577-6849-4209-b720-468fbcfc8dcc)
+![image](https://github.com/user-attachments/assets/45e0f4b0-245b-4247-aa28-b07aabfca634)
+
+
+
+
+
+
+
